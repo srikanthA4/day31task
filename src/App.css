@@ -2,12 +2,12 @@
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  /* object-fit: cover; */
+  object-fit: cover;
 }
 .poster {
   height: 300px;
   width: 280px;
-  /* object-fit: cover; */
+  object-fit: cover;
   border-radius: 10px;
 }
 .character-specs {
@@ -21,7 +21,7 @@
   width: 280px;
   border: 1px ;
   border-radius: 10px;
-  /* height: min-content; */
+  height: min-content;
   
   
 }
@@ -63,7 +63,7 @@
   width: 60%;
   height: 70%;
 margin-top: 30px;
-/* object-fit: cover; */
+object-fit: cover;
  
   
 }
